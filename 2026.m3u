@@ -19,3 +19,21 @@ http://resellerestoestv.com/series/lupeLebrija/rd78qsaym/675422.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El auto fantastico S1 E54" tvg-logo="" group-title="🔘 RETRO",El auto fantastico S1 E54
 http://138.121.15.230:9002/get.php?username=lupeLebrija&password=rd78qsaym&type=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET ᴴᴰ¹" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Animal_Planet-logotipo.png?w=460&h=460&crop=1&ssl=1" group-title="📺 | CULTURA",ANIMAL PLANET ᴴᴰ¹
+http://new593.online/live/lupeLebrija/rd78qsaym/802836.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.pa" tvg-name="ANIMAL PLANET ᴴᴰ²" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Animal_Planet-logotipo.png?w=460&h=460&crop=1&ssl=1" group-title="📺 | CULTURA",ANIMAL PLANET ᴴᴰ²
+http://new593.online/live/lupeLebrija/rd78qsaym/736299.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET ᴴᴰ³" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Animal_Planet-logotipo.png?w=460&h=460&crop=1&ssl=1" group-title="📺 | CULTURA",ANIMAL PLANET ᴴᴰ³
+http://new593.online/live/lupeLebrija/rd78qsaym/736267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL ᴴᴰ¹" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="📺 | CULTURA",COMEDY CENTRAL ᴴᴰ¹
+http://new593.online/live/lupeLebrija/rd78qsaym/736290.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.ve" tvg-name="COMEDY CENTRAL ᴴᴰ²" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="📺 | CULTURA",COMEDY CENTRAL ᴴᴰ²
+http://new593.online/live/lupeLebrija/rd78qsaym/736271.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL ᴴᴰ¹" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="📺 | CULTURA",DISCOVERY CHANNEL ᴴᴰ¹
+http://new593.online/live/lupeLebrija/rd78qsaym/802837.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL ᴴᴰ²" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="📺 | CULTURA",DISCOVERY CHANNEL ᴴᴰ²
+http://new593.online/live/lupeLebrija/rd78qsaym/736319.m3u8
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol.us" tvg-name="DISCOVERY CHANNEL EN ESPAÑOL ᴴᴰ¹" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="📺 | CULTURA",DISCOVERY CHANNEL EN ESPAÑOL ᴴᴰ¹
+http://new593.online/live/lupeLebrija/rd78qsaym/802840.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamiliaEnEspanol.us" tvg-name="DISCOVERY FAMILIA ᴴᴰ¹" tvg-logo="http://fanc.tmsimg.com/assets/s99630_ll_h3_aa.png" group-title="📺 | CULTURA",DISCOVERY FAMILIA ᴴᴰ¹
+
